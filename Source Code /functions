@@ -1,0 +1,23 @@
+.give
+.replace
+.code
+.edit
+
+(osR):
+
+delete
+return
+save
+cancel
+run
+exit
+compile
+do
+continue
+
+codeSource
+
+keys : replace @ with @
+customLang
+
+: "900168729857829948919947757727843785891885981309676104775829958768839288577287678288687629006827779288868615669294"
