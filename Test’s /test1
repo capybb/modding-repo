@@ -1,0 +1,5 @@
+application.run.configure.sl
+sl configure
+bugs 0
+modif false
+testrun.application.runapp.windowsapprunner [WAR]
